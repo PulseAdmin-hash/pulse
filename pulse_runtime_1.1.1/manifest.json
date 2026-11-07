@@ -1,0 +1,10 @@
+{
+  "build_id": "1794031964-62b49f9d",
+  "pulse": {
+    "type": "url",
+    "value": "https://raw.githubusercontent.com/PulseAdmin-hash/pulse/main/pulse_runtime_1.1.1/pulse.enc"
+  },
+  "pulse_sha256": "HWyu5JQNTkL06hO8FE0E7bh5Cjlt98tgciaaoQrvxHw=",
+  "salt_b64": "UR39R6KP4HJifdZS35tE6w==",
+  "sig_b64": "2BZfTBYaLYoW9G4popMWsF2gRPqywY7gjNivadpkPFuP9eV5msRwYNAnjIkKaaNWbUAWaa25tcZUNFn+ND60Dg=="
+}
